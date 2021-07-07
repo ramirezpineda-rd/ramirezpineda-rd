@@ -7,7 +7,7 @@
    
 - 💞️ Estoy buscando colaborar en una empresa donde lleve a cabo todos mis conocimientos prácticos y teóricos para la resolución de problemas y la buena administraciíon de los        recursos dando como resultado la optima calidad del producto.  
 
-- 📫 Me pueden contactar a mi correo electrónico personal el cuál es ramirezpineda.rd@gmail.com
+- 📫 Me pueden contactar a mi correo electrónico personal el cuál es ramirezpineda.rd@gmail.com o a mi número de celular 8343517920
 
 <!---
 ramirezpineda-rd/ramirezpineda-rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
