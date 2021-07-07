@@ -6,7 +6,8 @@
    en Six Sigma para la Ingeniería en Calidad
    
 - 💞️ Estoy buscando colaborar en una empresa donde lleve a cabo todos mis conocimientos prácticos y teóricos para la resolución de problemas y la buena administraciíon de los        recursos dando como resultado la optima calidad del producto.  
-- 📫 How to reach me ...
+- 
+- 📫 Me pueden contactar a mi correo electrónico personal el cuál es ramirezpineda.rd@gmail.com
 
 <!---
 ramirezpineda-rd/ramirezpineda-rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
