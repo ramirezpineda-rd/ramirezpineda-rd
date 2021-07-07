@@ -1,4 +1,4 @@
-- 👋 Hola soy Rubén Darío Ramírez Pineda
+- 👋 Hola soy Rubén Darío Ramírez Pineda egresado de la cerrera en Ingeniería en Tecnologías de la Información.
 
 - 👀 Estoy interesado en la Ingeniería en Tecnologías de la Información, programación web y redes, así también como la Ingeniería en calidad.
 
