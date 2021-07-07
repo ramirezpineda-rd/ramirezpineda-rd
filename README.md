@@ -1,6 +1,6 @@
 - 👋 Hola soy Rubén Darío Ramírez Pineda egresado de la cerrera en Ingeniería en Tecnologías de la Información.
 
-- 👀 Estoy interesado en la Ingeniería en Tecnologías de la Información, programación web y redes, así también en la Ingeniería en calidad.
+- 👀 Estoy interesado en la Ingeniería en Tecnologías de la Información, programación web y redes, así también en la Ingeniería en Calidad.
 
 - 🌱 Actualmente estoy aprendiendo todo sobre el lenguaje de programación web PHP con el marco de trabajo de Laravel, y me estoy certificando 
    en Six Sigma para la Ingeniería en Calidad
